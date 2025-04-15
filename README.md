@@ -22,7 +22,7 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 ---
 
 ### 🚀 Projects & Contributions
-- **[WI-CONTROLLER](#)** - A remote control application for connected devices
+- **[WI-CONTROLLER](#)** - A remote control application for IOT devices
 - **[Student Information System](#)** - A system to track student progress & grades
 - **[AI Image Validator](#)** - YOLOv8-based image validation & reporting
 - **[Android Calculator](#)** - A simple calculator app built with Java and XML in Android Studio.
