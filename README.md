@@ -21,20 +21,10 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 
 ---
 
-### 🚀 Projects & Contributions
-- **[WI-CONTROLLER](#)** - A remote control application for IOT devices
-- **[Student Information System](#)** - A system to track student progress & grades
-- **[AI Image Validator](#)** - YOLOv8-based image validation & reporting
-- **[Android Calculator](#)** - A simple calculator app built with Java and XML in Android Studio.
-
-💡 *Check out my repositories for more!* [🔗 GitHub Profile](https://github.com/martdahao)
-
----
-
 ### 🎯 Current Focus
 - Learning full-stack development
-- Building AI-powered applications with YOLOv8 & FastAPI
-- Enhancing mobile app development with React Native
+- Building AI-powered applications with YOLOv8, FastAPI, MERN STACK
+- Enhancing mobile app development with React Native, Java
 - Experimenting with system automation & robotics
 
 ---
