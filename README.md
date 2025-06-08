@@ -23,7 +23,7 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 
 ### 🎯 Current Focus
 - Learning full-stack development
-- Building AI-powered applications with YOLOv8, FastAPI, MERN STACK
+- Building AI-powered applications with YOLOv8, FastAPI, & MERN STACK
 - Enhancing mobile app development with React Native, Java
 - Experimenting with system automation & robotics
 
