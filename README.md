@@ -32,6 +32,3 @@ I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to
 ### 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:martdahao.com)
 
----
-
-⚡ *"Code is like humor. When you have to explain it, it's bad."* - Cory House 🚀
