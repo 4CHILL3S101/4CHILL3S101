@@ -21,6 +21,7 @@ Every day is an opportunity to explore new technologies, and I'm excited about t
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
@@ -35,8 +36,8 @@ Every day is an opportunity to explore new technologies, and I'm excited about t
 
 ## 🎯 Current Focus  
 - Learning **Full-Stack Development**  
-- Building **AI-powered applications** with YOLOv8, FastAPI, Firebase, GraphQL, MySQL & MERN stack  
-- Enhancing **mobile app development** with React Native & Java  
+- Building **AI-powered applications** with YOLOv8, FastAPI, Firebase, GraphQL, MySQL, and MongoDB  
+- Enhancing **mobile app development** with **React Native** and **Java (Android app development)**  
 - Experimenting with **system automation & robotics**  
 
 ---
