@@ -18,6 +18,7 @@ Every day is an opportunity to explore new technologies, and I'm excited about t
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -38,6 +39,7 @@ Every day is an opportunity to explore new technologies, and I'm excited about t
 - Learning **Full-Stack Development**  
 - Building **AI-powered applications** with YOLOv8, FastAPI, Firebase, GraphQL, MySQL, and MongoDB  
 - Enhancing **mobile app development** with **React Native** and **Java (Android app development)**  
+- Developing backend systems with **Go** for scalability & performance  
 - Experimenting with **system automation & robotics**  
 
 ---
