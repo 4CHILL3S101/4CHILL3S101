@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👨‍💻 Mart Ervin Dahao
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;AI+Enthusiast+%26+Problem+Solver;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;AI+Enthusiast+%26+Problem+Solver;Mart Ervin Dahao" alt="Typing SVG" />
 
 <br/>
 
