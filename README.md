@@ -1,48 +1,185 @@
-# 👋 Hello, I'm Mart Ervin Dahao  
+<div align="center">
 
-I'm a **newbie** and an **aspiring Full-Stack Developer** who is always eager to learn and grow.  
-I enjoy solving problems, building applications, and continuously improving my skills.  
-Every day is an opportunity to explore new technologies, and I'm excited about the journey ahead in software development.  
+# 👨‍💻 Mart Ervin Dahao
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;AI+Enthusiast+%26+Problem+Solver;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-## 🔥 Tech Stack & Skills  
+<br/>
 
-### 🌐 Frontend  
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-
-### 💾 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-
-### 🔧 Other Tools & Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
+</div>
 
 ---
 
-## 🎯 Current Focus  
-- Learning **Full-Stack Development**  
-- Building **AI-powered applications** with YOLOv8, FastAPI, Firebase, GraphQL, MySQL, and MongoDB  
-- Enhancing **mobile app development** with **React Native** and **Java (Android app development)**  
-- Developing backend systems with **Go** for scalability & performance  
-- Experimenting with **system automation & robotics**  
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
+</div>
+
+## 🚀 About Me
+
+```typescript
+const developer = {
+    name: "Mart Ervin Dahao",
+    location: "Davao, Philippines 🇵🇭",
+    role: "Full-Stack Developer",
+    passion: ["AI/ML", "Mobile Development", "System Architecture"],
+    currentFocus: "Building AI-powered applications",
+    lifePhilosophy: "Every challenge is an opportunity to innovate"
+};
+```
+
+<div align="center">
+
+### 🎯 What I'm Building
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l0HlQoLBOGjMl4Pte/giphy.gif" width="80" height="80"/><br/>
+<strong>🤖 AI Applications</strong><br/>
+<sub>Computer Vision with YOLOv8</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="80" height="80"/><br/>
+<strong>📱 Mobile Apps</strong><br/>
+<sub>Cross-platform with React Native</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" height="80"/><br/>
+<strong>⚡ Backend Systems</strong><br/>
+<sub>High-performance with Go</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:martdahao.com)  
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,electron" />
+</p>
+
+### ⚙️ Backend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,go,java,php" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,graphql" />
+</p>
+
+### 🔧 Tools & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,laravel,fastapi" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🎯 Current Learning Journey
+
+<details>
+<summary><b>🔥 Advanced Development</b></summary>
+<br/>
+
+- 🚀 **Full-Stack Architecture** - Microservices & Serverless
+- 🧠 **AI/ML Integration** - TensorFlow, PyTorch, YOLOv8
+- 📱 **Mobile Excellence** - Flutter, React Native Expo
+- ⚡ **Performance Optimization** - Go concurrency, Node.js clustering
+- 🔗 **API Design** - GraphQL Federation, RESTful best practices
+
+</details>
+
+<details>
+<summary><b>🌟 Upcoming Goals</b></summary>
+<br/>
+
+- 🐳 **DevOps & Deployment** - Docker, Kubernetes, CI/CD
+- ☁️ **Cloud Platforms** - AWS, Google Cloud, Azure
+- 🔒 **Security** - OAuth, JWT, Encryption best practices
+- 📊 **Data Engineering** - Apache Kafka, Redis, Elasticsearch
+
+</details>
+
+---
+
+<div align="center">
+
+## 🌐 Connect & Collaborate
+
+<p>
+<a href="mailto:martdahao@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+</p>
+
+### 💬 Let's build something amazing together!
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 Currently Coding To
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+### 🚀 "Code is poetry written in logic" 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> Feel free to reach out if you want to collaborate on exciting projects!</em>
+
+</div>
