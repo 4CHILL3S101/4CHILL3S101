@@ -162,24 +162,11 @@ const developer = {
 
 </div>
 
----
-
-<div align="center">
-
-## 🎵 Currently Coding To
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-</div>
 
 ---
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-### 🚀 "Code is poetry written in logic" 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> Feel free to reach out if you want to collaborate on exciting projects!</em>
 
 </div>
