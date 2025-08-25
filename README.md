@@ -1,5 +1,5 @@
 <div align="center">
-# Mart Ervin Dahao
+### Mart Ervin Dahao
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Mart+Ervin+Dahao" alt="Typing SVG" />
 
@@ -48,7 +48,7 @@ const developer = {
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" height="80"/><br/>
 <strong>⚡ Backend Systems</strong><br/>
-<sub>High-performance with FASTAPI</sub>
+<sub>High-performance with NodeJS</sub>
 </td>
 </tr>
 </table>
