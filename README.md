@@ -51,7 +51,7 @@ Designing microservices in Go for high-performance applications. Implementing Gr
 ## Get In Touch
 
 **Email:** [martdahao@gmail.com](mailto:martdahao@gmail.com)  
-**GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
+**GitHub:** [github.com/4CHILL3S101](https://github.com/4CHILL3S101)  
 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
 
 Available for collaboration on innovative projects and full-time opportunities.
