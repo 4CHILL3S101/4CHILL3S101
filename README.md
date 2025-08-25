@@ -1,21 +1,17 @@
 <div align="center">
-
+# Mart Ervin Dahao
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Mart+Ervin+Dahao" alt="Typing SVG" />
 
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="200"/>
 </div>
 
 ## 🚀 About Me
@@ -23,9 +19,9 @@
 ```typescript
 const developer = {
     name: "Mart Ervin Dahao",
-    location: "Davao, Philippines 🇵🇭",
+    location: "Bukidnon, Philippines 🇵🇭",
     role: "Full-Stack Developer",
-    passion: ["AI/ML", "Mobile Development", "System Architecture"],
+    passion: ["AI/ML", "Mobile Development", "Web Development","System Architecture"],
     currentFocus: "Building AI-powered applications",
     lifePhilosophy: "Every challenge is an opportunity to innovate"
 };
@@ -52,7 +48,7 @@ const developer = {
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" height="80"/><br/>
 <strong>⚡ Backend Systems</strong><br/>
-<sub>High-performance with Go</sub>
+<sub>High-performance with FASTAPI</sub>
 </td>
 </tr>
 </table>
