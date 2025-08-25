@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** • **AI Enthusiast** • **Based in Bukidnon, Philippines**
 
-I build scalable applications that solve real-world problems. Currently focused on integrating AI capabilities into web and mobile applications while maintaining clean, efficient code architecture.
+I build scalable applications. Currently focused on integrating AI capabilities into web and mobile applications.
 
 ---
 
@@ -53,7 +53,7 @@ Building a real-time object detection system using YOLOv8, FastAPI, and React. I
 Developing React Native applications with seamless backend integration. Focus on performance optimization and user experience across iOS and Android platforms.
 
 **Scalable Backend Architecture**  
-Designing microservices in Go for high-performance applications. Implementing GraphQL APIs with efficient database design patterns.
+Designing microservices in FASTAPI & NodeJS for high-performance applications. Implementing GraphQL APIs with efficient database design patterns.
 
 ---
 
