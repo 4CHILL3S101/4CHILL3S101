@@ -1,168 +1,57 @@
-<div align="center">
-<h1> Mart Ervin Dahao </h1>
+# Mart Ervin Dahao
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Mart+Ervin+Dahao" alt="Typing SVG" />
+**Full-Stack Developer** • **AI Enthusiast** • **Based in Bukidnon, Philippines**
 
-
-<br/>
-
-</div>
+I build scalable applications that solve real-world problems. Currently focused on integrating AI capabilities into web and mobile applications while maintaining clean, efficient code architecture.
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="200"/>
-</div>
+## Technical Expertise
 
-## 🚀 About Me
+**Frontend**  
+React • React Native • JavaScript • HTML5 • CSS3
 
-```typescript
-const developer = {
-    name: "Mart Ervin Dahao",
-    location: "Bukidnon, Philippines 🇵🇭",
-    role: "Full-Stack Developer",
-    passion: ["AI/ML", "Mobile Development", "Web Development","System Architecture"],
-    currentFocus: "Building AI-powered applications",
-    lifePhilosophy: "Every challenge is an opportunity to innovate"
-};
-```
+**Backend**  
+Node.js • Python • Go • FastAPI • Laravel
 
-<div align="center">
+**Mobile Development**  
+React Native • Java (Android) • Electron
 
-### 🎯 What I'm Building
+**Data & AI**  
+YOLOv8 • MySQL • MongoDB • Firebase • GraphQL
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/l0HlQoLBOGjMl4Pte/giphy.gif" width="80" height="80"/><br/>
-<strong>🤖 AI Applications</strong><br/>
-<sub>Computer Vision with YOLOv8</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="80" height="80"/><br/>
-<strong>📱 Mobile Apps</strong><br/>
-<sub>Cross-platform with React Native</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" height="80"/><br/>
-<strong>⚡ Backend Systems</strong><br/>
-<sub>High-performance with NodeJS</sub>
-</td>
-</tr>
-</table>
+**Core Languages**  
+JavaScript • Python • Go • Java • C • PHP
 
 ---
 
-## 🛠️ Tech Arsenal
+## Current Projects
 
-<div align="center">
+**AI-Powered Computer Vision Application**  
+Building a real-time object detection system using YOLOv8, FastAPI, and React. Integrates with MongoDB for data persistence and Firebase for user authentication.
 
-### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,electron" />
-</p>
+**Cross-Platform Mobile Solutions**  
+Developing React Native applications with seamless backend integration. Focus on performance optimization and user experience across iOS and Android platforms.
 
-### ⚙️ Backend Development  
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,go,java,php" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,graphql" />
-</p>
-
-### 🔧 Tools & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,laravel,fastapi" />
-</p>
-
-</div>
+**Scalable Backend Architecture**  
+Designing microservices in Go for high-performance applications. Implementing GraphQL APIs with efficient database design patterns.
 
 ---
 
-<div align="center">
+## Professional Focus
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</div>
+- **Full-Stack Development:** End-to-end application development with modern frameworks
+- **AI Integration:** Implementing computer vision and machine learning in production applications  
+- **Mobile-First Design:** Creating responsive, cross-platform user experiences
+- **Performance Optimization:** Writing efficient, scalable code for high-traffic applications
+- **System Architecture:** Designing robust backend systems and API infrastructure
 
 ---
 
-<div align="center">
+## Get In Touch
 
-## 🏆 GitHub Trophies
+**Email:** [martdahao@gmail.com](mailto:martdahao@gmail.com)  
+**GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
+**LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🎯 Current Learning Journey
-
-<details>
-<summary><b>🔥 Advanced Development</b></summary>
-<br/>
-
-- 🚀 **Full-Stack Architecture** - Microservices & Serverless
-- 🧠 **AI/ML Integration** - TensorFlow, PyTorch, YOLOv8
-- 📱 **Mobile Excellence** - Flutter, React Native Expo
-- ⚡ **Performance Optimization** - Go concurrency, Node.js clustering
-- 🔗 **API Design** - GraphQL Federation, RESTful best practices
-
-</details>
-
-<details>
-<summary><b>🌟 Upcoming Goals</b></summary>
-<br/>
-
-- 🐳 **DevOps & Deployment** - Docker, Kubernetes, CI/CD
-- ☁️ **Cloud Platforms** - AWS, Google Cloud, Azure
-- 🔒 **Security** - OAuth, JWT, Encryption best practices
-- 📊 **Data Engineering** - Apache Kafka, Redis, Elasticsearch
-
-</details>
-
----
-
-<div align="center">
-
-## 🌐 Connect & Collaborate
-
-<p>
-<a href="mailto:martdahao@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-</p>
-
-### 💬 Let's build something amazing together!
-
-</div>
-
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+Available for collaboration on innovative projects and full-time opportunities.
