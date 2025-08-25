@@ -71,6 +71,3 @@ Designing microservices in FASTAPI & NodeJS for high-performance applications. I
 
 **Email:** [martdahao@gmail.com](mailto:martdahao@gmail.com)  
 **GitHub:** [github.com/4CHILL3S101](https://github.com/4CHILL3S101)  
-**LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-
-Available for collaboration on innovative projects and full-time opportunities.
