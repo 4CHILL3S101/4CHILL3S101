@@ -34,6 +34,7 @@ I build scalable applications. Currently focused on integrating AI capabilities 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=GoogleCloud&logoColor=white)
 ![Realtime Database](https://img.shields.io/badge/Realtime_DB-039BE5?style=flat&logo=Firebase&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFA000?style=flat&logo=Firebase&logoColor=white)
 
 
 **Primary Language**  
