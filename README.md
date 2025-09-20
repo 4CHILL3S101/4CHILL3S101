@@ -32,6 +32,9 @@ I build scalable applications. Currently focused on integrating AI capabilities 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=GoogleCloud&logoColor=white)
+![Realtime Database](https://img.shields.io/badge/Realtime_DB-039BE5?style=flat&logo=Firebase&logoColor=white)
+
 
 **Primary Language**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
