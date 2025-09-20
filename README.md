@@ -1,6 +1,6 @@
 # Mart Ervin Dahao
 
-**Full-Stack Developer** • **AI Enthusiast** • **Based in Bukidnon, Philippines**
+**Full-Stack Developer** •  **Based in Bukidnon, Philippines**
 
 I build scalable applications. Currently focused on integrating AI capabilities into web and mobile applications.
 
@@ -22,7 +22,7 @@ I build scalable applications. Currently focused on integrating AI capabilities 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Mobile Development**  
+**Mobile & Desktop Development**  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
@@ -32,10 +32,11 @@ I build scalable applications. Currently focused on integrating AI capabilities 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E4405F?style=flat&logo=graphql&logoColor=white)
 
-**Core Languages**  
+**Primary Language**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Secondary Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
