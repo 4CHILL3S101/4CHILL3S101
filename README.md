@@ -62,6 +62,7 @@ Designing microservices in FASTAPI & NodeJS for high-performance applications. I
 
 ---
 
+
 ## Professional Focus
 
 - **Full-Stack Development:** End-to-end application development with modern frameworks
