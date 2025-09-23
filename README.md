@@ -62,7 +62,6 @@ Designing microservices in FASTAPI & NodeJS for high-performance applications. I
 
 ---
 
-
 ## Professional Focus
 
 - **Full-Stack Development:** End-to-end application development with modern frameworks
@@ -76,4 +75,3 @@ Designing microservices in FASTAPI & NodeJS for high-performance applications. I
 ## Get In Touch
 
 **Email:** [martdahao@gmail.com](mailto:martdahao@gmail.com)  
-**GitHub:** [github.com/4CHILL3S101](https://github.com/4CHILL3S101)  
