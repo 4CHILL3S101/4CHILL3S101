@@ -27,6 +27,7 @@ I build scalable applications. Currently focused on integrating AI capabilities 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
 
+
 **Data & AI**  
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat&logo=yolo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
