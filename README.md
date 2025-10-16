@@ -55,7 +55,6 @@ I build scalable applications. Currently focused on integrating AI capabilities 
 
 ## Current Projects
 
-
 **AI-Powered Computer Vision Application**  
 Building a real-time object detection system using YOLOv8, FastAPI, and React. Integrates with MongoDB for data persistence and Firebase for user authentication.
 
