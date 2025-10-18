@@ -6,6 +6,7 @@
 I build scalable applications. Currently focused on integrating AI capabilities into web and mobile applications.
 ---
 
+
 ## Technical Expertise
 
 
