@@ -1,6 +1,5 @@
 # Mart Ervin Dahao
 
-
 **Aspiring Full-Stack Developer** •  **Based in Bukidnon, Philippines**
 
 
