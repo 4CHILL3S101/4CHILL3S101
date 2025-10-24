@@ -45,31 +45,3 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
----
-
-## Current Projects
-
-**AI-Powered Computer Vision Application**  
-Building a real-time object detection system using YOLOv8, FastAPI, and React. Integrates with MongoDB for data persistence and Firebase for user authentication.
-
-**Cross-Platform Mobile Solutions**  
-Developing React Native applications with seamless backend integration. Focus on performance optimization and user experience across iOS and Android platforms.
-
-**Scalable Backend Architecture**  
-Designing microservices in FASTAPI & NodeJS for high-performance applications. Implementing GraphQL APIs with efficient database design patterns.
-
----
-
-## Professional Focus
-
-- **Full-Stack Development:** End-to-end application development with modern frameworks
-- **AI Integration:** Implementing computer vision and machine learning in production applications  
-- **Mobile-First Design:** Creating responsive, cross-platform user experiences
-- **Performance Optimization:** Writing efficient, scalable code for high-traffic applications
-- **System Architecture:** Designing robust backend systems and API infrastructure
-
----
-
-## Get In Touch
-
-**Email:** [martdahao@gmail.com](mailto:martdahao@gmail.com)  
