@@ -23,6 +23,7 @@
 
 **Mobile & Desktop Development**  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
 
