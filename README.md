@@ -1,6 +1,8 @@
 
 # Hi, I'm Mart
 
+Many of my repositories are intentionally kept private to protect sensitive information and to honor confidentiality obligations associated with commissioned and client-based projects.
+
 ## Technical Stack
 
 **Frontend**  
