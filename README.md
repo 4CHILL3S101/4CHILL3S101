@@ -26,11 +26,10 @@ However, I’m always happy to talk about my process or the technical challenges
 
 ---
 
-### Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=4CHILL3S101&show_icons=true&theme=transparent&hide_border=true" alt="Mart's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4CHILL3S101&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
-</p>
+###  Activity & Stats
+![Commits](https://img.shields.io/github/commit-activity/m/4CHILL3S101?style=flat-square&color=gray&label=recent%20activity)
+![Top Language](https://img.shields.io/github/languages/top/4CHILL3S101/4CHILL3S101?style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=4CHILL3S101&label=profile%20visits&color=grey&style=flat-square)
 
 ---
 
