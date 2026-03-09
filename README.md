@@ -15,7 +15,7 @@ I've had the opportunity to work with a variety of tools across different platfo
 | **Frontend** | React, TypeScript, TailwindCSS |
 | **Data & AI** | YOLOv8, MySQL, MongoDB, Firebase |
 
-**Languages I use most:** `JavaScript` `TypeScript` `Python` `Go` `Java` `C` `PHP` `Dart`
+**Languages I use most:** `JavaScript` `TypeScript` `Go`
 
 ---
 
