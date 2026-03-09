@@ -10,10 +10,10 @@ I've had the opportunity to work with a variety of tools across different platfo
 
 | | |
 | :--- | :--- |
-| **Mobile & Desktop** | React Native, Flutter, Electron |
+| **Mobile & Desktop** | React Native, Flutter, Electron, Wails |
 | **Backend** | Node.js, Go, FastAPI, Laravel |
 | **Frontend** | React, TypeScript, TailwindCSS |
-| **Data & AI** | YOLOv8, MySQL, MongoDB, Firebase |
+| **Data & AI** | YOLOv8, MySQL, MongoDB, Firebase,PostGres |
 
 **Languages I use most:** `JavaScript` `TypeScript` `Go`
 
