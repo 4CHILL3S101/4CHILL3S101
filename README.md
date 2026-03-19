@@ -19,13 +19,6 @@ I've had the opportunity to work with a variety of tools across different platfo
 
 ---
 
-### A Note on My Repositories
-You might notice fewer public repositories than expected. Most of my recent work has been for clients and specific commissions, which I keep private to respect their confidentiality.
-
-However, I’m always happy to talk about my process or the technical challenges I’ve solved. Feel free to reach out if you'd like to chat!
-
----
-
 ###  Activity & Stats
 ![Commits](https://img.shields.io/github/commit-activity/m/4CHILL3S101?style=flat-square&color=gray&label=recent%20activity)
 ![Top Language](https://img.shields.io/github/languages/top/4CHILL3S101/4CHILL3S101?style=flat-square&color=blue)
