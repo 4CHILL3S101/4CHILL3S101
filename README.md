@@ -23,7 +23,7 @@ I've had the opportunity to work with a variety of tools across different platfo
 ![Commits](https://img.shields.io/github/commit-activity/m/4CHILL3S101?style=flat-square&color=gray&label=recent%20activity)
 ![Top Language](https://img.shields.io/github/languages/top/4CHILL3S101/4CHILL3S101?style=flat-square&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=4CHILL3S101&label=profile%20visits&color=grey&style=flat-square)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4CHILL3S101)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📫 Let's connect
