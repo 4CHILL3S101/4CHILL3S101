@@ -20,15 +20,12 @@ I've had the opportunity to work with a variety of tools across different platfo
 ---
 
 ### Activity & Stats
-<p align="center">
+
   ![Commits](https://img.shields.io/github/commit-activity/m/4CHILL3S101/your-repo-name?style=flat-square&color=gray&label=recent%20activity)
   ![Top Language](https://img.shields.io/github/languages/top/4CHILL3S101/your-repo-name?style=flat-square&color=blue)
   ![Profile Views](https://komarev.com/ghpvc/?username=4CHILL3S101&label=profile%20visits&color=grey&style=flat-square)
-</p>
 
-<p align="center">
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=4CHILL3S101&show_icons=true&theme=radical)](https://github.com/4CHILL3S101/github-readme-stats)
-</p>
 
 ### 📫 Let's connect
 I'm always open to feedback, questions, or just a coffee chat about tech.
