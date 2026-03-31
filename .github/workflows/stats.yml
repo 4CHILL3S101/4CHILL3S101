@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 REQUIRED to push
+  contents: write   
 
 jobs:
   build:
@@ -18,8 +18,10 @@ jobs:
 
       - name: Generate stats SVG
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=4CHILL3S101&show_icons=true&count_private=true&theme=radical&token=${{ secrets.GH_README_TOKEN }}" -o github-stats.svg
-
+          curl -L -H "Accept: image/svg+xml" \
+          "https://github-readme-stats.vercel.app/api?username=4CHILL3S101&show_icons=true&count_private=true&theme=radical" \
+          -o github-stats.svg
+          
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
