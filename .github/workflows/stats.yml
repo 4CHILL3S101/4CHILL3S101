@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   
+  contents: write
 
 jobs:
   build:
@@ -18,10 +18,19 @@ jobs:
 
       - name: Generate stats SVG
         run: |
-          curl -L -H "Accept: image/svg+xml" \
+          curl -L -s -H "Accept: image/svg+xml" \
           "https://github-readme-stats.vercel.app/api?username=4CHILL3S101&show_icons=true&count_private=true&theme=radical" \
           -o github-stats.svg
-          
+
+      - name: Validate SVG (CRITICAL)
+        run: |
+          if ! grep -q "<svg" github-stats.svg; then
+            echo "❌ Invalid SVG generated"
+            echo "---- DEBUG OUTPUT ----"
+            cat github-stats.svg
+            exit 1
+          fi
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
