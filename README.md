@@ -19,9 +19,6 @@ I've had the opportunity to work with a variety of tools across different platfo
 
 ---
 
-### Activity & Stats
-![GitHub Stats](./github-stats.svg)
-
 ### 📫 Let's connect
 I'm always open to feedback, questions, or just a coffee chat about tech.
 
