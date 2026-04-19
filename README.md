@@ -61,6 +61,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/4CHILL3S101/4CHILL3S101/output/snake.svg" alt="Snake animation" />
 
-###
