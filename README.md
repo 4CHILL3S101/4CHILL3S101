@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">am a software developer dedicated to building scalable, pattern-driven systems. I specialize in designing Monolithic and Microservices architectures using Go, Node.js, and FastAPI, with a focus on implementing Vertical Slice and CQRS patterns. My experience extends across the full development lifecycle—from engineering websites, mobile apps, and cross-platform desktop applications to containerizing environments with Docker and implementing basic CI/CD pipelines. I am particularly passionate about building reusable libraries to streamline common development tasks, ensuring efficiency and consistency across every project I build.</p>
+<p align="left">I am a software developer dedicated to building scalable, pattern-driven systems. I specialize in designing Monolithic and Microservices architectures using Go, Node.js, and FastAPI, with a focus on implementing Vertical Slice and CQRS patterns. My experience extends across the full development lifecycle—from engineering websites, mobile apps, and cross-platform desktop applications to containerizing environments with Docker and implementing basic CI/CD pipelines. I am particularly passionate about building reusable libraries to streamline common development tasks, ensuring efficiency and consistency across every project I build.</p>
 
 ###
 
