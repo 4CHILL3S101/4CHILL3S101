@@ -40,6 +40,8 @@
 
 ###
 
+<p align="left">Hello World!!</p>
+
 ###
 
 <div align="center">
@@ -56,9 +58,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=4CHILL3S101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4CHILL3S101&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4CHILL3S101&radius=16&theme=dracula&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
-
-
