@@ -20,6 +20,7 @@
   <a href="https://www.facebook.com/mrtervn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
+  <a href="https://www.npmjs.com/~mrt_dev" target="_blank"> <img src="https://img.shields.io/static/v1?message=npm&logo=npm&label=&color=CB3837&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="npm logo" /> </a>
 </div>
 
 ###
